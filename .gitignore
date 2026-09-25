@@ -1,0 +1,6 @@
+yolov8n.pt
+__pycache__/
+*.pyc
+.venv/
+venv/
+retailenv/
